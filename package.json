@@ -1,0 +1,22 @@
+{
+  "name": "color-app",
+  "version": "1.0.0",
+  "description": "![hex-monsters](https://user-images.githubusercontent.com/13789291/28171732-f5ad05bc-67ae-11e7-93a6-3521d512a330.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwylie/color-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwylie/color-app/issues"
+  },
+  "homepage": "https://github.com/rwylie/color-app#readme",
+  "dependencies": {
+    "hbs": "^4.0.1"
+  }
+}
